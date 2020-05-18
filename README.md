@@ -1,4 +1,8 @@
-# Israel_OPV_2013
+# Prosocial polio vaccination in Israel
+Chad R. Wells, Amit Huppert, Meagan C. Fitzpatrick, Abhishek Pandey, Baruch Velan, Burton H.
+Singer, Chris T. Bauch, and Alison P. Galvani
+
+Copyright 2020, Chad Wells et al. All rights reserved. Released under the GNU GENERAL PUBLIC LICENSE v3
 
 ## EstimateRoP
 The objective function for lsqnonlon to estimate the perceived basic reproductive Number
